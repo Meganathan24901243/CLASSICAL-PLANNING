@@ -1,3 +1,5 @@
+Name : R.MEGANATHAN
+Reg no : 212224060150
 # ExpNo:10 Implementation of Classical Planning Algorithm
 # Algorithm or Steps Involved:
 <ol>
